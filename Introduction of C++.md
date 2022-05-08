@@ -33,11 +33,11 @@
 
 3. C++ houns three separate programming traditions:
 
-a. the procedural language tradition, represented by c;
+   a. the procedural language tradition, represented by c;
 
-b. the object oriented language tradition, represented ny the class enhncements c++ adds to c;
+   b. the object oriented language tradition, represented ny the class enhncements c++ adds to c;
 
-c. genetic programming, supported c++ templates.
+   c. genetic programming, supported c++ templates.
 
 4. C++ is a superset of c language.
 
