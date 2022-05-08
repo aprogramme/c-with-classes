@@ -39,9 +39,9 @@ b. the object oriented language tradition, represented ny the class enhncements 
 
 c. genetic programming, supported c++ templates.
 
-d. C++ is a superset of c language.
+4. C++ is a superset of c language.
 
-e. C++ can impliment Procedure Oriented Procedural(POP) as well as Object Oriented Programming(OOP).
+5. C++ can impliment Procedure Oriented Procedural(POP) as well as Object Oriented Programming(OOP).
 
 
 
