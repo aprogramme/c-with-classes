@@ -28,6 +28,7 @@ Predefined function are declared in header file, so whenever you are using any p
 
 
 ## Sample Program(square.cpp)
+```cpp
 
 #include<iostream.h>
 
@@ -51,5 +52,5 @@ cout<<"Square of "<<x<<" is <<s;
 getch();
 
 }
-
+```
 
