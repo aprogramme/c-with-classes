@@ -46,7 +46,7 @@ class complex
       void set_data(int x, int y)
       { a=x; y=b; }
       void show_data()
-      {cout<<"\n a = " << a << " b = " << b;}
+      {cout<<"\n a = " << a << " b = " << b";}
     complex add(complex c)
     {
         complex temp;
