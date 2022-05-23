@@ -1,5 +1,5 @@
 # Destructor in C++:
-1. Destructor is a instance memner function of a class.
+1. Destructor is a instance member function of a class.
 2. The name of the destructor is same as the name of a class preceded by tilde(~) symbol.
 3. Destructor can never be static.
 4. Destructor has no return type.
