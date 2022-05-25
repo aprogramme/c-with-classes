@@ -118,7 +118,7 @@ void main()
 
 - There are only one collor object in urinary operator.
 
-# Overloading of Increment operator
+# Overloading of Increment operator:
 
 1. Preincrement operator(++a)
 2. Postincrement operator(a++)
